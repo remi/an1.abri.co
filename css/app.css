@@ -1,0 +1,42 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+#logo {
+  font-family: 'Pacifico', cursive;
+  font-size: 60px;
+  color: rgb(211, 61, 0);
+  font-weight: 400;
+}
+
+div.row {
+  margin-top: 30px;
+}
+
+.founders img, .members img {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.flip-horizontal {
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  transform: scaleX(-1);
+  -ms-filter: fliph; /*IE*/
+  filter: fliph; /*IE*/
+}
+
+.row .event {
+  margin-bottom: 26px;
+}
+
+span.label a {
+  color: white;
+}
+
+.label-abrico {
+  background-color: #D33D00;
+}
