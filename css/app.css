@@ -40,3 +40,11 @@ span.label a {
 .label-abrico {
   background-color: #D33D00;
 }
+
+a {
+  color: #D33D00;
+}
+
+a:hover {
+  color: #D33D00;
+}
