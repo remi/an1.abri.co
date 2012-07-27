@@ -11,13 +11,21 @@ body {
 }
 
 div.row {
-  margin-top: 30px;
+  margin-bottom: 80px;
+}
+
+div.row h2 {
+  margin-bottom: 0.5em;
 }
 
 .founders img, .members img {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
+}
+
+.members img {
+  margin-bottom: 5px;
 }
 
 .flip-horizontal {
@@ -47,4 +55,18 @@ a {
 
 a:hover {
   color: #D33D00;
+}
+
+
+.header {
+  margin-top:30px;
+  /*margin-bottom:60px;*/
+}
+
+.header h1 {
+  font-size: 60px;
+  line-height: 66px;
+/*  font-family: 'Pacifico', cursive;*/
+/*  font-weight: normal;*/
+
 }
