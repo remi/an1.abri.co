@@ -68,5 +68,13 @@ a:hover {
   line-height: 66px;
 /*  font-family: 'Pacifico', cursive;*/
 /*  font-weight: normal;*/
+}
 
+.lead {
+  margin: 18px 0
+}
+
+.caption.mapCaption { 
+  line-height: 1.4;
+  padding: 12px 9px 7px;
 }
